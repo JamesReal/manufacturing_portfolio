@@ -1,0 +1,14 @@
+tank,capacity,families,glycol,maintenance,occupied
+T01,40,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,False,,
+T02,60,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,,0-72
+T03,60,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,,
+T04,80,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,False,,
+T05,80,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,False,,100-148
+T06,100,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,,
+T07,100,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,120-144,
+T08,100,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,,
+T09,120,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,False,,
+T10,120,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,288-324,
+T11,60,Sour/Wild,False,,
+T12,80,Sour/Wild,False,,
+T13,160,West Coast IPA;Hazy IPA;Lager;Pilsner;Amber Ale;Stout/Porter,True,,

@@ -1,0 +1,37 @@
+batch,product,family,volume,priority,release,due,duration,cleaning
+B-1042,Amber Ale,Amber Ale,80,1,100,2000,149,6
+B-1043,Hazy IPA,Hazy IPA,100,3,120,295,127,12
+B-1044,Stout/Porter,Stout/Porter,100,1,48,302,158,10
+B-1045,Hazy IPA,Hazy IPA,60,2,48,312,144,12
+B-1046,Sour/Wild,Sour/Wild,80,3,96,548,308,24
+B-1047,Hazy IPA,Hazy IPA,100,1,0,285,141,12
+B-1048,West Coast IPA,West Coast IPA,100,3,72,303,111,8
+B-1049,Amber Ale,Amber Ale,60,1,72,335,143,6
+B-1050,West Coast IPA,West Coast IPA,100,1,24,278,110,8
+B-1051,Hazy IPA,Hazy IPA,80,1,0,300,132,12
+B-1052,Hazy IPA,Hazy IPA,40,3,120,384,144,12
+B-1053,Amber Ale,Amber Ale,60,2,96,277,133,6
+B-1054,Lager,Lager,80,2,120,459,243,8
+B-1055,West Coast IPA,West Coast IPA,80,1,48,268,124,8
+B-1056,Stout/Porter,Stout/Porter,80,2,48,406,166,10
+B-1057,Pilsner,Pilsner,80,1,72,431,215,8
+B-1058,Lager,Lager,40,1,24,356,236,8
+B-1059,Sour/Wild,Sour/Wild,40,2,24,479,311,24
+B-1060,Sour/Wild,Sour/Wild,80,3,72,410,290,24
+B-1061,Sour/Wild,Sour/Wild,60,1,120,543,303,24
+B-1062,West Coast IPA,West Coast IPA,40,1,120,366,126,8
+B-1063,Sour/Wild,Sour/Wild,80,2,72,504,312,24
+B-1064,Lager,Lager,80,3,24,305,233,8
+B-1065,Lager,Lager,60,3,72,415,247,8
+B-1066,West Coast IPA,West Coast IPA,100,1,48,222,126,8
+B-1067,Sour/Wild,Sour/Wild,80,2,72,458,290,24
+B-1068,Sour/Wild,Sour/Wild,40,2,48,497,305,24
+B-1069,Hazy IPA,Hazy IPA,80,3,72,382,142,12
+B-1070,West Coast IPA,West Coast IPA,60,3,120,286,118,8
+B-1071,Stout/Porter,Stout/Porter,100,3,0,268,172,10
+B-1072,West Coast IPA,West Coast IPA,60,2,72,369,129,8
+B-1073,Amber Ale,Amber Ale,40,2,24,233,137,6
+B-1074,West Coast IPA,West Coast IPA,60,2,48,357,117,8
+B-1075,Hazy IPA,Hazy IPA,40,2,24,339,123,12
+B-9001,Barrel Imperial Stout,Stout/Porter,220,3,0,400,168,10
+B-9002,Flanders Sour,Sour/Wild,100,2,0,480,300,24
